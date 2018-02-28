@@ -1,0 +1,10 @@
+module.exports={
+    qiniu:{
+        AK:'xYiiJWPt-93LV_xlcM20yYkB-QvU7Py0FQ5VvGG7',
+        SK:'ltHbHtbHhsEwW9wINih12VeINW6kOgUDt0PQ4kYD',
+        bucket:'yugao'
+    },
+    mongodb:{
+        db:'mongodb://localhost/test'
+    }
+}
